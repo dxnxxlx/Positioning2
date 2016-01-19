@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.grande{
+	height: 200px;
+	width: 200px;
+	background-color: #0048FB;
+	position: static;
+}
+
+.mediana{
+	height: 100px;
+	width: 100px;
+	background-color: #387804;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+}
+
+.chica{
+	height: 50px;
+	width: 50px;
+	background-color: #000000;
+	position: absolute;
+	left: -50px;
+	top: -50px;
+	
+}
